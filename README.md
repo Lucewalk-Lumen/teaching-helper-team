@@ -37,7 +37,7 @@ Six scenario workflows ship ready-to-run — you describe the situation, the lea
 
 | Agent | Role |
 |---|---|
-| `teaching-helper-team-lead` | Orchestrator — 齐帮办, teaching orchestration director |
+| `teaching-helper-team-lead` | Orchestrator — teaching orchestration director |
 | `architect` | Builds new agent/skill packages (also powers Workflow E) |
 | `case-writer` | University teaching-case writing |
 | `course-builder` | Course architecture & materials |
