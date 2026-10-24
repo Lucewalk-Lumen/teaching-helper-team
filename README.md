@@ -4,7 +4,7 @@
 
 > Nine teaching experts and 18 skills covering course building, case writing, thesis mentoring, slides, minutes, voice synthesis and grant proposals — with de-AI-flavor and citation-fidelity gates on every deliverable.
 
-Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
+Part of the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
 
 ## What it does
 
@@ -77,7 +77,7 @@ MIT — see [LICENSE](LICENSE).
 
 - 版本:v1.1.2 · 类型:team
 - 版本真源:包内 `.codebuddy-plugin/plugin.json` 的 `version` 字段
-- 所属合集:[WorkBuddy Experts 门户](https://github.com/Lucewalk/lucewalk-experts)(全部产品目录与品牌说明)
+- 所属合集:[Lucewalk Experts 门户](https://github.com/Lucewalk/lucewalk-experts)(全部产品目录与品牌说明)
 
 ## 安装
 
