@@ -77,7 +77,7 @@ MIT — see [LICENSE](LICENSE).
 
 - 版本:v1.1.2 · 类型:team
 - 版本真源:包内 `.codebuddy-plugin/plugin.json` 的 `version` 字段
-- 所属合集:[Lucewalk Experts 门户](https://github.com/Lucewalk/lucewalk-experts)(全部产品目录与品牌说明)
+- 所属合集:[Lucewalk Experts 门户](https://github.com/Lucewalk/lucewalk-lumen)(全部产品目录与品牌说明)
 
 ## 安装
 
