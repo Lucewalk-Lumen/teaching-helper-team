@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.bak*
+*.tmp
+*~
+*.swp
+.created-by-session
+.vscode/
+.idea/
+dist/
