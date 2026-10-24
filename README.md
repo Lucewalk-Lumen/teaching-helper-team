@@ -64,3 +64,31 @@ Current release: **v1.1.2**. See the package manifest and in-package `CHANGELOG.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+
+---
+
+<details>
+<summary><strong>📖 中文说明(Chinese README)</strong></summary>
+
+# 教学帮帮团
+
+**教学帮帮团:九专家十八技能,三层架构,六大预设工作流**
+
+- 版本:v1.1.2 · 类型:team
+- 版本真源:包内 `.codebuddy-plugin/plugin.json` 的 `version` 字段
+- 所属合集:[WorkBuddy Experts 门户](https://github.com/Lucewalk/lucewalk-experts)(全部产品目录与品牌说明)
+
+## 安装
+
+1. 从本仓库 [Releases](https://github.com/Lucewalk/teaching-helper-team/releases) 页下载该包 zip(或直接克隆仓库);
+2. 解压后**保持内部清单结构不变**(`.codebuddy-plugin/` 目录);
+3. 在 WorkBuddy 中导入/注册(自定义连接器入口 → 信任并启用)。
+
+能力详解见上方英文文档;品牌与全部产品目录见门户仓库。
+
+## 许可
+
+MIT——详见 [LICENSE](LICENSE)。
+
+</details>
